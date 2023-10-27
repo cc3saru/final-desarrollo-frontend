@@ -32,7 +32,7 @@ import useUserStore from "../../zustand/user";
 import { useNavigate } from "react-router-dom";
 
 const LinkItems = [
-  { name: "Home", icon: FiHome, link: "home" },
+  { name: "Home", icon: FiHome, link: "#/home" },
 ];
 
 
