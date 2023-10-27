@@ -1,7 +1,7 @@
 // Importamos axios
 import axios from 'axios';
 
-const baseURL = process.env.BACKEND_URL;
+const baseURL = 'https://api-6hfsvaacwq-uc.a.run.app/api/';
 
 // Creamos una instancia de axios
 export const axiosInstance = axios.create({
